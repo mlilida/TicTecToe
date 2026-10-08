@@ -1,2 +1,17 @@
 /scratch/
 *.tmp
+.vs/
+*.suo
+*.user
+*.userosv
+*.userprefs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.nupkg
+project.assets.json
+*.nuget.g.props
+*.nuget.g.targets
+/scratch/
+*.tmp
